@@ -1,2 +1,2 @@
 # BundleChat
-Chat plugin for Bundle Client Engine
+Chat plugin for Bundle Universal
